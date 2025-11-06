@@ -27,7 +27,7 @@ Optimizar la distribución de sensores considerando:
 - ** Arquitectura modular** y extensible
 
 
-## 🏗️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 proyecto_pso_riego/
 ├── main.py # Script principal
